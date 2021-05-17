@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Swammann
-- 👀 I’m interested in ... creating cool things
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m Samuel
+- 👀 I’m interested in ... learning and creating
+- 🌱 I’m currently learning ... Python(+pandas,BeautifulSoup&tkinter), C
 - 💞️ I’m looking to collaborate on ... making something innovative
 - 📫 How to reach me ... 
 
